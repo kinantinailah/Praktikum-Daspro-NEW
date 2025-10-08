@@ -16,6 +16,5 @@ public class cetakKRS13 {
             System.out.println("Registrasi ditolak");
             System.out.println("Silahkan lunasi UKT terlebih dahulu");
         }
-
     }
 }
