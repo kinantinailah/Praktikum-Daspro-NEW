@@ -12,5 +12,10 @@ public class cetakKRS13 {
             System.out.println("Pembayaran UKT terverivikasi");
             System.out.println("Silahkan cetak KRS dan minta tanda tangan DPA");
         }
+        else{
+            System.out.println("Registrasi ditolak");
+            System.out.println("Silahkan lunasi UKT terlebih dahulu");
+        }
+
     }
 }
