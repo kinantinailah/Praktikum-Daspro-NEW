@@ -11,8 +11,6 @@ public class cetakKRS13 {
         if (uktlunas) {
             System.out.println("Pembayaran UKT terverivikasi");
             System.out.println("Silahkan cetak KRS dan minta tanda tangan DPA");
-            
-            
         }
     }
 }
