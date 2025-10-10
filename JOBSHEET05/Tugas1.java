@@ -10,8 +10,7 @@ public class Tugas1 {
             System.out.println(number + " adalah genap");}
             else{
                 System.out.println(number + " adalah ganjil");
-            }
-            
+            } 
         }
             
 }
