@@ -11,6 +11,5 @@ public class Tugas1 {
             else{
                 System.out.println(number + " adalah ganjil");
             } 
-        }
-            
+        }      
 }
